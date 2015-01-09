@@ -52,8 +52,8 @@ class jdk_oracle(
 
   $default_8_update = '11'
   $default_8_build  = '12'
-  $default_7_update = '67'
-  $default_7_build  = '01'
+  $default_7_update = '72'
+  $default_7_build  = '14'
   $default_6_update = '45'
   $default_6_build  = '06'
 
